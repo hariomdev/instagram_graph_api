@@ -1,0 +1,8 @@
+"""AWS Configurations"""
+AWS_ACCESS_KEY = ''
+AWS_SECRET_KEY = ''
+SERVICE_NAME = 's3'
+DEFAULT_REGION_NAME = 'eu-west-1'
+S3_BUCKET_KEY = ''
+S3_BUCKET_NAME = ''
+DYNAMO_DB_NAME = ''
